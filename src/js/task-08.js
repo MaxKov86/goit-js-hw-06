@@ -16,5 +16,3 @@ function onFormSubmit(event) {
 }
 
 form.addEventListener(`submit`, onFormSubmit);
-
-// `Email: ${email.value}, Password: ${password.value}`;
